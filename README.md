@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Felipe Fonseca
+Matricula: 885857
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-02-21 101609.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-02-21 102058.png>)
